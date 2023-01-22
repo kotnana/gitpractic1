@@ -1,3 +1,5 @@
 this is file2
 
 added second line
+
+third line added
